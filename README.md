@@ -1,2 +1,2 @@
 # tetris
-Python project: Tetris game
+Python Team project: Tetris game
